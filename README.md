@@ -29,4 +29,7 @@
 - [origin](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 - [Youtube](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
 
+## Good books [here](./BOOKS.md)
+
+
 ## Useful papers
