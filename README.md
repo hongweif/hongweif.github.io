@@ -2,4 +2,6 @@
 
 ## Good books [here](./books.md)
 
-## Useful papers
+## Useful links [here](./links.md)
+
+## Useful papers [here](./papes.md)
